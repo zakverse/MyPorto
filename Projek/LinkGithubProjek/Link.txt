@@ -1,0 +1,6 @@
+RoadDamage-AI : https://github.com/zakverse/RoadDamage_AI
+Pneumonia-Detection : https://github.com/zakverse/PneumoVision_AI
+Sinau Bareng :https://github.com/wahyuuuwid/sinau-bareng (Projek Colab)
+SchoolVerse : https://github.com/zakverse/SchoolVerse_-School-Management-System-
+Fitness-App : https://github.com/zakverse/FITNESS-COUNTER-REPS-WEB
+Batik_AI : https://github.com/zakverse/Batik-AI-
