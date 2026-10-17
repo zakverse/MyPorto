@@ -152,8 +152,12 @@ export const projects: Project[] = [
       "Python",
     ],
     githubUrl: "https://github.com/zakverse/Batik-AI-",
-    images: [], // Clean text-based project presentation (no fabricated screenshots)
-    featured: false,
+    images: [
+      "/projects/Batik1.jpeg",
+      "/projects/Batik2.jpeg",
+      "/projects/Batik3.jpeg",
+    ],
+    featured: true,
     category: "AI / Computer Vision",
   },
 ];

@@ -72,7 +72,7 @@ export function ProjectCard({ project }: ProjectCardProps) {
             )}
           </div>
         ) : (
-          /* Clean Text-Driven Header for projects without screenshots (Batik-AI) */
+          /* Clean Text-Driven Header for projects without screenshots */
           <div className="p-6 border-b border-zinc-200 dark:border-zinc-800 bg-zinc-50/70 dark:bg-zinc-950/40 flex items-center justify-between">
             <div className="inline-flex items-center gap-2 px-2.5 py-1 rounded-sm border border-zinc-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 text-xs font-mono text-zinc-600 dark:text-zinc-400">
               <span className="w-2 h-2 rounded-full bg-zinc-400" />
